@@ -1,6 +1,6 @@
 ### Hello there, I am Javier Novella Nebot 👋
 
-- 🔭 I’m currently ending a Computer Engineering degree at UPV
+- 🔭 I’m a Computer Engineer specialized in building and securizing network
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with VPN´s management
 - 💬 Ask me about Java, C#, Ruby or Rails
